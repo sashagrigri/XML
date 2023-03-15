@@ -1,1 +1,12 @@
-
+<?xml version="1.0" encoding="UTF-8"?>
+<bug_report>
+  <ID>BR-1</ID>
+  <Summery>Что? Где? Когда?</Summery>
+  <STR>1. Делай раз 2. Делай два 3. Делай три</STR>
+  <ER>ожидаемый результат</ER>
+  <AR>фактический результат</AR>
+  <Environment>окружение</Environment>
+  <Priority>Blocker/Critical/Major/Minor/Trivial</Priority>
+  <Severity>High/Medium/Low</Severity>
+  <Attachments>link</Attachments>
+</bug_report>
